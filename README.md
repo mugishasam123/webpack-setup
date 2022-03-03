@@ -1,18 +1,17 @@
-![](https://img.shields.io/badge/Todolist-blue)
+![](https://img.shields.io/badge/webpack-blue)
 
-# Todolist
+# webpack setup
 
-> Todolist is an app that allows you to track all of your daily activities by setting up activities,editing and removing them .`. It is built using React js
+>Webpack is an open-source JavaScript module bundler. It is made primarily for JavaScript, but it can transform front-end assets such as HTML, CSS, and images if the corresponding loaders are included. webpack takes modules with dependencies and generates static assets representing those modules.
 > 
 
-![screenshot](https://user-images.githubusercontent.com/90524466/156592086-0a2944d8-3ca5-48a5-b2c7-c7f10344669a.png)
+![screenshot]![image](https://user-images.githubusercontent.com/90524466/156644206-d43a8ada-64c1-40e9-92e1-175b500cf8b4.png)
+
 
 
 <br/>
 
-# Live Demo
 
-[Live Link](https://mugishasam123.github.io/todolist-microverse/)
 
 <br/>
 
@@ -20,17 +19,12 @@ Additional description about the project and its features.
 ## Built With
 
 - Major languages (JavaScript)
-- Framework/Libraries (React js)
 - Technologies/tools used 
   
   ``` bash
-  - create-react-app tool
-  - Webpack(Code Bundlng et al)
-  - Babel (code transpiling)
-  - Jest(for testing)
+
+  - webpack(for bundling)
   - Git(version control)
-  - ESLint(JavaScript linting)
-  - Stylelint(style linting)
 
   ```
 
@@ -48,9 +42,9 @@ To get a local copy up and running follow these simple example steps.
 #### Clone this repository
 
 ```bash
-$ git clone https://github.com/mugishasam123/todolist-microverse
+$ git clone https://github.com/mugishasam123/webpack-setup
 .git
-$ cd todolist-microverse
+$ cd webpack-setup
 
 ```
 #### Run project
@@ -76,7 +70,7 @@ $ npm start # this will open it in the browser and enable hot reloading
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/mugishasam123/todolist-microverse/issues).
+Feel free to check the [issues page](https://github.com/mugishasam123/webpack-setup/issues).
 
 <br>
 
